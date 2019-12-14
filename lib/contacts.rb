@@ -1,5 +1,3 @@
-require 'pry'
-
 puts remove_strawberry(contacts = {
   "Jon Snow" => {
     name: "Jon",
